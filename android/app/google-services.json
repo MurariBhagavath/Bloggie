@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "249819335037",
+    "project_id": "bloggie-1027a",
+    "storage_bucket": "bloggie-1027a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249819335037:android:40a6665c5295a078da6414",
+        "android_client_info": {
+          "package_name": "com.example.bloggiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249819335037-ogkkn1mlhp51d0ctp16j0j993394rlb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0UrA-UVW2EnjaqeTFa4QbF2LCBUDI-V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249819335037-ogkkn1mlhp51d0ctp16j0j993394rlb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249819335037-33go7l5qjkfl7bvni6rgoj0i6r0uivei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bloggie.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
